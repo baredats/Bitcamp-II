@@ -5,3 +5,11 @@
    * Cafe Menu
    * Set of Colored Markers
    * Registration Form
+   ------------------------------
+   * Rothko Painting
+   * Photo Gallery
+   * utrition Label
+   * Quiz
+   
+Certification Projects:
+   * Survey Form - Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
